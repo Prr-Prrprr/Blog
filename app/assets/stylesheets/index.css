@@ -1,0 +1,38 @@
+.index {
+	background-color: #EED6C4;
+}
+.logotype {
+	font-family: 'Square Peg', cursive;
+	font-size: 150px;
+	text-align: center;
+	margin-bottom: 3%;
+	color: #EED6C4;
+}
+#box {
+	width: 45%;
+	padding: 3%;
+	border: 5px solid black;
+}
+.empty-column{
+	width: 3%;
+	background-color: #6B4F4F;
+	height: 100%;
+	border-top: 5px solid #6B4F4F;
+	border-bottom: 5px solid #6B4F4F;
+}
+.form-control {
+	width: 95%;
+}
+input {
+	width: 95%;
+}
+.btn {
+	background-color: #6B4F4F; 
+	border-color: #483434;
+	width: 30%;
+}
+.link {
+	color: #6B4F4F; 
+	font-size: 20px;
+	margin-top: 30px;
+}

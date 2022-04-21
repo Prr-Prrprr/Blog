@@ -1,0 +1,50 @@
+body {
+	background-color: #6B4F4F;
+}
+header {
+	/*border-bottom: 5px solid black;*/
+}
+.home {
+	min-height: 900px;
+	background-color: white;
+	padding: 0px;
+	border: 5px solid black;
+}
+.navbar {
+	background-color: #483434;
+}
+.navbar-brand {
+	color: #EED6C4; 
+	font-family: 'Square Peg', cursive; 
+	font-size: 50px; 
+	margin-left: 30px;
+}
+.navbar-collapse {
+	margin-left: 40px
+}
+.nav-link {
+	color: black; 
+	text-align: center;
+}
+.profile-pic {
+	height: 50px; 
+	width: 50px; 
+	border-radius: 50%; 
+	background-color: lightgrey;
+	color: #483434;
+}
+.dropdown-menu {
+	background-color: #483434; 
+	border: none; 
+}
+.dropdown-item {
+	color: #EED6C4 !important;
+}
+.nav-menu {
+	max-width: 20%; 
+	min-height: 900px; 
+	background-color: #EED6C4;
+}
+.list-group-item {
+	background-color: #EED6C4;
+}

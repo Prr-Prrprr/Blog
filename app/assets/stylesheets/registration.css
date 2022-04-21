@@ -1,0 +1,10 @@
+.h2_sign_up {
+	text-align: center;
+}
+.registration {
+	background-color: #EED6C4;
+	width: 35%;
+	padding: 2%;
+	radius: 10px;
+	border: 5px solid black;
+}
